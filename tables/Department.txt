@@ -1,0 +1,1 @@
+create table Department(deptid Int,deptnmae Text,deptloc Text);
